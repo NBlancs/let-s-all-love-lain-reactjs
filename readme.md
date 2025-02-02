@@ -22,7 +22,7 @@ Serial Experiments Lain is a critically acclaimed anime that explores themes of 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/lets-all-love-lain.git
+git clone https://github.com/NBlancs/lets-all-love-lain.git
 cd lets-all-love-lain
 npm install
 npm run dev
