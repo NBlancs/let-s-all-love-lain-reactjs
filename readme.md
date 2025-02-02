@@ -26,11 +26,12 @@ git clone https://github.com/yourusername/lets-all-love-lain.git
 cd lets-all-love-lain
 npm install
 npm run dev
+```
 
-Usage
+## Usage
 Open the website and click anywhere to start the audio. The text will automatically animate with wave effects while the Matrix rain falls in the background.
 
-Technologies
+## Technologies
 
 React
 Three.js
@@ -38,12 +39,12 @@ WebGL Shaders
 HTML5 Canvas
 Web Audio API
 
-Credits
+## Credits
 Original anime: "Serial Experiments Lain" (1998)
 Created by Ryutaro Nakamura
 Produced by Triangle Staff/Pioneer LDC
 
-"Present day... Present time... Ha ha ha!"
-
-"No matter where you are, everyone is always connected." ```
 ```
+"Present day... Present time... Ha ha ha!"
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+"No matter where you are, everyone is always connected." 
